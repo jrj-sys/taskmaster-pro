@@ -1,6 +1,6 @@
 ## TaskMaster Pro 
 
-[Image of the TaskMaster Pro website](https://github.com/jrj-sys/taskmaster-pro/blob/main/assets/images/Screen%20Shot%202022-03-03%20at%205.05.26%20PM.png)
+![Image of the TaskMaster Pro website](https://github.com/jrj-sys/taskmaster-pro/blob/main/assets/images/Screen%20Shot%202022-03-03%20at%205.05.26%20PM.png)
 
 ## Purpose: 
 
