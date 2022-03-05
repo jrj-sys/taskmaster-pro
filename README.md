@@ -14,7 +14,7 @@ The website works to remind users when their tasks are to be completed within tw
 
 ## Contributors: 
 
-Jamel James: (https://www.github.com/jrj-sys)
+Jamel James → (https://www.github.com/jrj-sys)
 
 ## Made With: 
 
